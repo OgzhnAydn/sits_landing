@@ -1,0 +1,3 @@
+- [x] Canlı tespit bölümünü yeniden tasarla (panel, sweep, footer)
+- [x] İlkelerimiz: başlık kaldırıldı, büyütüldü, #cycle altına taşındı
+- [x] Dünyada hareketli tespit sinyalleri
